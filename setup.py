@@ -9,7 +9,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="simplesim",
-    version="",
+    version="1.0.0",
     author="Adam Morrissett",
     author_email="me@adamlm.com",
     description="A simple and generic framework for quickly and easily "
