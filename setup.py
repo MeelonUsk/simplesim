@@ -12,11 +12,12 @@ setuptools.setup(
     version="",
     author="Adam Morrissett",
     author_email="me@adamlm.com",
-    description="",
+    description="A simple and generic framework for quickly and easily "
+                "creating a simulation environment",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
-    keywords="simple generic simulation framework",
-    url="",
+    keywords="simple generic simulation environment framework",
+    url="https://github.com/MeelonUsk/simplesim",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
